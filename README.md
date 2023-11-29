@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a flight deals notifier that helps you find the best flight deals from London to various destinations. It utilizes the Tequila API for flight searches, Sheety API for Google Sheets integration, and Twilio API for sending notifications.
+This project is a flight deals notifier that helps you find the best flight deals from London to various destinations. It utilizes the Tequila API for flight searches, Sheety API for Google Sheets integration, Open Exchange Rates API to convert the value of airline tickets and Twilio API for sending notifications. It is a version of a project from Angela Yu's course 100 Days of Code: The Complete Python Pro Bootcamp for 2023. The improvements I have introduced are at the exception handling level and the conversion of the currency value from GBP to EUROS. I have also added that the user enters the city where they want to fly from.
 
 ## Features
 
